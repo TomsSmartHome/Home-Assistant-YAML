@@ -18,7 +18,7 @@ mode: single
 
 Spotify playing script:
 
-```
+```yaml
 alias: Play music on Spotify
 description: ""
 fields:
